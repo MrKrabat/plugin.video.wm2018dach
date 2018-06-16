@@ -4,11 +4,12 @@ FIFA World Cup 2018 DACH a KODI (XBMC) plugin for the world cup in russia.
 
 Git repo: https://github.com/MrKrabat/plugin.video.wm2018dach
 
-Forum posting: xxx
+Forum posting: https://www.kodinerds.net/index.php/Thread/62160-Fu%C3%9Fball-WM-2018-DACH/
 ***
 
 What this plugin currently can do:
-- [ ] Coming soon™
+- [x] Streaming from ARD, ZDF and ORF
+- [x] Watch football matches and press conferences
 ***
 
 _This addon is not affiliated with the broadcasters._
