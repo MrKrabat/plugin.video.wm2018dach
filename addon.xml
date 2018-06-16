@@ -10,7 +10,6 @@
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <language>de</language>
-        <reuselanguageinvoker>false</reuselanguageinvoker>
         <summary lang="en_GB">The FIFA World Cup 2018 free and legal from public service broadcasting</summary>
         <summary lang="de_DE">Die Fußball-WM 2018 kostenlos und legal vom öffentlich-rechtlichen Rundfunk</summary>
         <description lang="en_GB">The FIFA World Cup 2018 free and legal from public service broadcasting</description>
